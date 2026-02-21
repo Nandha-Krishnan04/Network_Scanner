@@ -1,0 +1,36 @@
+body {
+    background: #111;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+#status {
+    margin: 10px;
+    font-size: 18px;
+    color: yellow;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.highlight {
+    background-color: #2ecc71;
+    color: black;
+    font-weight: bold;
+}

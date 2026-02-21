@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Network Scanner</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Network Scanner</h1>
+
+<button onclick="startScan()">Start Scan</button>
+
+<p id="status"></p>
+
+<table id="results">
+    <thead>
+        <tr>
+            <th>IP</th>
+            <th>MAC</th>
+            <th>Vendor</th>
+            <th>Device</th>
+            <th>Hostname</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
