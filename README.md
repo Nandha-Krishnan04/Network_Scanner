@@ -1,8 +1,8 @@
-# 🌐 Network Scanner
+# Network Scanner
 
 A web-based network reconnaissance tool built using Python (Flask), Scapy, HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 
 - ARP-based host discovery
 - MAC address detection
@@ -12,7 +12,7 @@ A web-based network reconnaissance tool built using Python (Flask), Scapy, HTML,
 - Real-time scan results using JavaScript
 - Highlights local machine in results table
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Flask
@@ -22,7 +22,7 @@ A web-based network reconnaissance tool built using Python (Flask), Scapy, HTML,
 - JavaScript
 
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - Port scanning
 - Passive sniffing
@@ -32,7 +32,6 @@ A web-based network reconnaissance tool built using Python (Flask), Scapy, HTML,
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 NANDHA KRISHNAN M
-Aspiring Cybersecurity & Network Engineer
